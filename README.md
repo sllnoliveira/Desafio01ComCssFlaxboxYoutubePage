@@ -26,7 +26,7 @@ Personalização de botões, ícones e do player de vídeo.
 
 Clone este repositório:
 
-git clone https://github.com/SEU_USUARIO/nome_do_repositorio.git
+git clone https://github.com/sllnoliveira/Desafio01ComCssFlaxboxYoutubePage
 
 
 Abra o arquivo index.html no seu navegador preferido.
